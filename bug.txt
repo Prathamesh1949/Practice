@@ -6,3 +6,5 @@ bug are fixed.
 bug found in login page.
 
 could not fetch user details properly.
+
+all bugs are fixed till now
