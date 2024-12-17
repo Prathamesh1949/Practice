@@ -2,3 +2,4 @@ list of all the bugs.
 list of all the bugs.
 
 bug are fixed.
+bug found in login page.
